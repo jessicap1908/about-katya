@@ -1,7 +1,7 @@
 # About Me
 ### Name : Katya
 ---
-  * **Email**: _katyaa4703@hstat.org_
+  * **Email**:  _katyaa4703@hstat.org_
   * **School** :High School of Telecommunications Arts and Technology
   * **Bio**: I am 16 years old and  
   * reside in Brooklyn 
@@ -16,7 +16,7 @@
 7. Biology
 8. Study Hall  
 ---
-##### Portfolio Links For Each Grade(Open Link in New Tab)
+##### Portfolio Links For Each Grade (Open Link in New Tab)
 ---
   **Freshman Year:**  
 [Scratch](https://sites.google.com/a/hstat.org/katyaa4703sep09/scratch)  
